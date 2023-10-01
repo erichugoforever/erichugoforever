@@ -2,8 +2,8 @@
 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=golang&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=nodejs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=for-the-badge&logo=golang&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=for-the-badge&logo=nodejs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&&logo=c&logoColor=white&color=2bbc8a)
 
 
